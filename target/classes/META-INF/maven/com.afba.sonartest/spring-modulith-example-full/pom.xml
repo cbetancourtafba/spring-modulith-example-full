@@ -10,6 +10,7 @@
 	<groupId>com.afba.sonartest</groupId>
 	<artifactId>spring-modulith-example-full</artifactId>
 	<version>1.0</version>
+	<packaging>jar</packaging>
 	
 	<properties>
 		<maven.compiler.target>17</maven.compiler.target>
